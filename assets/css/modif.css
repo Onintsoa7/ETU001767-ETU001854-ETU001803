@@ -1,0 +1,35 @@
+.modif
+{
+    margin: 30px 300px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 1px 1px 10px grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.modif label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    font-size: 20px;
+}
+.text{
+    height: 40px;
+    width: 500px;
+    border: solid gray 0.1px;
+    border-radius: 10px;
+}
+.bouton {
+    padding: 7px;
+    border-radius: 10px;
+    border: none;
+    bottom: 10px;
+    cursor: pointer;
+    background: linear-gradient(to right, #fc00ff, #00dbde);
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bouton:hover{
+
+    background: linear-gradient(to right, #fc466b, #3f5efb); 
+}

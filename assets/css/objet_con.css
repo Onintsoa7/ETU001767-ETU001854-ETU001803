@@ -1,0 +1,50 @@
+.objet{
+    margin: 20px 150px ;
+    border-radius: 20px;
+}
+.add{
+    background-color: rgb(0, 81, 255);
+    border-style: none;
+    width: 15%;
+    height: 8%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px grey;
+}
+.add a{
+    text-decoration: none;
+    color: #fff;
+}
+.mod{
+    background-color: #FFAC00;
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px grey;
+    height: 30px;
+    width: 10%;
+}
+.mod a{
+    text-decoration: none;
+    color: #fff;
+}
+.sup{
+    background-color: rgb(231, 0, 0);
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px grey;
+    height: 30px;
+    width: 10%;
+}
+.sup a{
+    text-decoration: none;
+    color: #fff;
+}
+.content{
+    box-shadow: 1px 1px 10px grey;
+    margin: 50px 50px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+li{
+    list-style: none;
+}

@@ -1,0 +1,47 @@
+.cat{
+    margin: 20px 20px;
+}
+.categ{
+    margin-left: 10%;
+    padding: 30px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}.categ li{
+    font-size: 25px;
+}
+.mod{
+    background-color: #FFAC00;
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px grey;
+    height: 30px;
+    width: 10%;
+}
+.mod a{
+    text-decoration: none;
+    color: #fff;
+}
+.sup{
+    background-color: rgb(231, 0, 0);
+    border-style: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px grey;
+    height: 30px;
+    width: 10%;
+}
+.sup a{
+    text-decoration: none;
+    color: #fff;
+}
+.add{
+    background-color: rgb(0, 81, 255);
+    border-style: none;
+    width: 15%;
+    height: 8%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px grey;
+}
+.add a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
